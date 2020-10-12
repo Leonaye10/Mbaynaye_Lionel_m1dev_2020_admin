@@ -87,27 +87,37 @@ Pistes :
 ● Utiliser la fonction case pour laisser le choix à l'utilisateur
 
 ## Exercice 7 :
+
 Ecrire un script capable de créer ou de supprimer un fichier.
+
 ● Menu permettant de laisser le choix à l'utilisateur.
+
 ● Avant de créer un fichier, le script doit d'abord vérifier si le fichier
 existe.
+
 ● Avant de supprimer un fichier, le script doit d'abord vérifier si le fichier
 existe.
 
 ## Exercice 8 :
+
 Ecrire un script capable de modifier les droits de propriété sur un fichier.
 Avant de modifier les propriétés sur un fichier, le script doit vérifier qu'il
 existe bien.
+
 Le script doit demander le nom du nouvel utilisateur et du nouveau groupe
 propriétaires.
 
 ## Exercice 9 :
+
 Ecrire un script capable de modifier les droits sur le fichier entré par
 l'utilisateur, du propriétaire, du groupe, et des autres.
+
 Le script doit vérifier que le fichier existe bien.
+
 Le script demande d'abord les nouveaux droits pour l'utilisateur
 propriétaire, puis pour le groupe, et enfin pour les autres.
 
 ## Consignes :
 Envoyez le projet dans un repository git sous le nom suivant :
+
 Nom_prenom_classe_annee_admin
