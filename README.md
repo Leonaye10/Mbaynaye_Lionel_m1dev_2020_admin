@@ -101,6 +101,7 @@ existe.
 ## Exercice 8 :
 
 Ecrire un script capable de modifier les droits de propriété sur un fichier.
+
 Avant de modifier les propriétés sur un fichier, le script doit vérifier qu'il
 existe bien.
 
